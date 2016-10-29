@@ -1,0 +1,8 @@
+﻿  Hello.cpp
+  Generating code
+  34 of 96 functions (35.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Hello.vcxproj -> C:\Users\Henry\Source\Repos\hello-world\Hello\Release\Hello.exe
+  Hello.vcxproj -> C:\Users\Henry\Source\Repos\hello-world\Hello\Release\Hello.pdb (Full PDB)
